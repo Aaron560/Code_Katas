@@ -1,23 +1,20 @@
-# Product Name
-> Short blurb about what your product does.
-
-One to two paragraph statement about your product and what it does.
+# CodeWar Katas & solutions.
+> A place for me to put my solutions to codewar katas and the language they was written in.
+> I will link the kata before the solution, feel free to go to the kata and try to solve them before viewing the solution file.
 
 ![](header.png)
 
-## Installation
-
 
 ## Usage example
+> Katas are respective of Codewars website. To partake in solving codewar katas and interacting with the communinty go to this link here: https://www.codewars.com 
+> <br> <br>
+> Make an account here if you dont have one: =>https://www.codewars.com/join
+> <br> <br>
+> After making an account you can start solving code kata problems whenever you are ready.
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ## Release History
-
+v1.0.0
 
 ## Meta
 
@@ -29,7 +26,7 @@ Distributed under the GNU license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/Aaron560/Code_Katas/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
