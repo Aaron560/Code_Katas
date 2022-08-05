@@ -11,6 +11,8 @@
 > <br> <br>
 > After making an account you can start solving code kata problems whenever you are ready.
 
+<br/>
+
 ## Kata Links.
 The links to the kata will be in the respective .MD files contents,  please go try them out before looking upon the solutions. <br/>
 [Links and description/Task](https://github.com/Aaron560/Code_Katas/tree/master/Katas)
@@ -19,6 +21,14 @@ The links to the kata will be in the respective .MD files contents,  please go t
 
 ## Kata Solutions.
 [Solutions for each challenge I have completed and each language i completed them in.](https://github.com/Aaron560/Code_Katas/tree/master/Solutions)
+
+<br/>
+
+## Retired Kata Links.
+These Links are just for archival purposes and can no longer be completed as they have been removed. <br/>
+[Here will be links to reitred and no longer actice katas](https://github.com/Aaron560/Code_Katas/tree/master/Katas)
+
+<br/>
 
 ## Release History
 v1.0.0
