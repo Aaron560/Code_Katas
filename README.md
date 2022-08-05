@@ -13,6 +13,7 @@
 > After making an account you can start solving code kata problems whenever you are ready.
 
 
+
 ## Release History
 v1.0.0
 
@@ -31,3 +32,4 @@ Distributed under the GNU license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+6. Review the Contriubute and PR guidelines have been cleared before hand.
