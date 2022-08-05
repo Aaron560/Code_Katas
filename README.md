@@ -26,7 +26,7 @@ The links to the kata will be in the respective .MD files contents,  please go t
 
 ## Retired Kata Links.
 These Links are just for archival purposes and can no longer be completed as they have been removed. <br/>
-[Here will be links to reitred and no longer actice katas](https://github.com/Aaron560/Code_Katas/tree/master/Katas)
+[Here will be links to reitred and no longer actice katas](https://github.com/Aaron560/Code_Katas/tree/master/Retired-Katas)
 
 <br/>
 
