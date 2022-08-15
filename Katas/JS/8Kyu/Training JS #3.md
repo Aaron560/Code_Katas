@@ -1,0 +1,3 @@
+# Kata
+>Link to the kata here. ~>
+[Training-JS#3](https://www.codewars.com/kata/571edea4b625edcb51000d8e)
